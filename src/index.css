@@ -738,7 +738,6 @@ select.form-control {
 }
 
 /* END PERPLEXITY DESIGN SYSTEM */
-```css
 /* Remove custom color variables and use design system variables */
 :root {
   /* Application-specific semantic colors */
